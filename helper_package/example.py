@@ -44,3 +44,16 @@ def AddNumbers(num1, num2):
   """
   summed_num = num1 + num2
   return summed_num
+  
+
+def greet_user(name):
+  """
+  Greet a user by name.
+
+  Args:
+    name (str): The name of the user to greet
+
+  returns:
+    str: String greeting including the name of the user
+  """
+    return f"Hello, {name}! Welcome to Data Science Trends and Applications."
