@@ -2,13 +2,13 @@
 
 def PrintHello():
   """
-  Prints "Hello! :)".
+  Prints "Hello!".
     
   Example:
     >>> PrintHello()
     Hello! :)
   """
-  print("Hello! :)")
+  print("Hello!")
 
 
 def PrintString(message):
